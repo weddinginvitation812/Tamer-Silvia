@@ -462,9 +462,9 @@ body.gate-locked{
 
 /* Custom font for date and countdown numbers */
 .date,
-.countdown b ,
-#closingDate ,
-#time{
+.countdown b,
+#closingDate,
+#time , #day{
   font-family: "Times New Roman", serif;
   font-weight: 400;
 }
