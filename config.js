@@ -7,7 +7,7 @@ const WEDDING = {
   dayDisplay: "SUNDAY",
   timeDisplay: "AT 9:00 PM",
   church: "كنيسة القديس العظيم مارجرجس , ابنوب",
-  venue: "Royal plaza Hall ",
+  venue: "Royal Hall ",
   
   musicFile: "music/song.mp3",
   musicTitle: "Our Love Song",
